@@ -11,8 +11,11 @@
     "test": "node test.js"
   },
   "dependencies": {
+    "@heroku-cli/color": "^1.1.14",
+    "@heroku-cli/plugin-orgs": "^1.8.2",
     "ejs": "^3.1.5",
     "express": "^4.15.2",
+    "heroku": "^7.59.2",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
